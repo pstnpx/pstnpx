@@ -69,7 +69,7 @@
 
 ## 📫 Reach Me
 
-- 📧 Email: [hi@pstnpx.com](mailto:hi@pstnpx.com)
+- 📧 Email: [hi@pstnpx.com](mailto:ps.tanupat@gmail.com)
 - 🌐 Website: [pstnpx.com](https://pstnpx.com)
 
 ![Visitor Count](https://profile-counter.glitch.me/pstnpx/count.svg)
