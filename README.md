@@ -46,19 +46,27 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pstnpx&theme=dark&hide_border=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pstnpx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 ---
 
 ## ⌨️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+<div align="center">
+  
 [![wakatime](https://wakatime.com/badge/user/79698f45-466b-41e5-9142-334b2f6186ff.svg)](https://wakatime.com/@79698f45-466b-41e5-9142-334b2f6186ff)
 
 [![pstnpx's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pstnpx\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://wakatime.com/@pstnpx">🔗 WakaTime Profile</a>
+
+</div>
 <!--END_SECTION:waka-->
 
 ---
